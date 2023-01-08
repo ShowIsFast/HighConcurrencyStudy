@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="312a28d4-b950-465f-91d9-455a1aa841a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/HighConcurrencyStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/DemonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/createThread/CallableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/createThread/RunnableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/createThread/ThreadTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/createThread/ThreadTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/createThread/ThreadTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/deadLockP/DeadLockL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/interruptP/InterruptL3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/interruptP/interruptL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/interruptP/interruptL2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/joinPackage/JoinL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/sleepP/SleepL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/threadLocalP/ThreadLocalL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/threadWait/InterruptL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter1/threadWait/WaitLearning1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter3/ThreadLocalRandomLearn/RandomLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/java/chapter3/ThreadLocalRandomLearn/ThreadLocalRandomLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConcurrencyCodeBeautiful/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SampleLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/X2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K1X4P2IpD2JY0tkxWZYzHkeVfW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/demonwu/IdeaProjects/HighConcurrencyStudy/ConcurrrencyCode_JiKe_WBL"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="312a28d4-b950-465f-91d9-455a1aa841a1" name="Changes" comment="" />
+      <created>1673142873810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673142873810</updated>
+    </task>
+    <servers />
+  </component>
+</project>
