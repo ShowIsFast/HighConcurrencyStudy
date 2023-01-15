@@ -1,3 +1,5 @@
+package new1;
+
 /**
  * 演示 lock 如何实现可见性
  * 1 顺序性规则 t1 count++ 对于unlock（）是可见的

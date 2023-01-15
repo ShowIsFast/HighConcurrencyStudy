@@ -1,3 +1,5 @@
+package new1;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.locks.Lock;
